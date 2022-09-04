@@ -1,6 +1,6 @@
 # Testes Calculadora
 
-Nesse pequeno projeto esta sendo testado 7 operações matemáticas, vamos verificar se o resultado está correto e se a função da operação responde de forma correta tambem.
+Nesse pequeno projeto esta sendo testado 8 operações matemáticas, vamos verificar se o resultado está correto e se a função da operação responde de forma correta tambem.
 
 
 ### Pré requisitos
